@@ -1,0 +1,5 @@
+paddlepaddle==3.1.1
+
+paddleocr[all]==3.7.0
+pdf2image==1.17.0
+opencv-python==5.0.0.93
